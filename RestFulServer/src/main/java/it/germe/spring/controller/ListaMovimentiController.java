@@ -33,7 +33,7 @@ public class ListaMovimentiController {
 	private UtentiService utentiService;
 	
 	@Autowired
-	private TipologicaRuoliService tipologicaRuoliService;	
+	private TipologicaRuoliService tipologicaRuoliServiceTest;	
 	
 	@Autowired
 	private TipologicaStatoUtenteService tipologicaStatoUtenteService;	
